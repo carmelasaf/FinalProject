@@ -1,0 +1,12 @@
+{
+  "name": "orders-master",
+  "displayName": "orders-master",
+  "expo": {
+    "name": "orders-master",
+    "slug": "orders-master",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
